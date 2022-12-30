@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-In this project, We have attempted to analyze a hotel booking dataset and come up with some relevant conclusions which will help the hotel to improve performance. We had perform our analysis in 4 segments
+In this project, We have attempted to analyze a hotel booking dataset and come up with some relevant conclusions which will help the hotel to improve performance. We had perform our analysis in 4 segments:
 * Booking Wise Analysis
 * Customer Wise Analysis
 * Cancellation wise Analysis
@@ -10,7 +10,7 @@ In this project, We have attempted to analyze a hotel booking dataset and come u
 
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has been removed from the data.
 A dataset containing 119390 records across 32 features has been given with information regarding bookings of two hotels from July 2015 to August 2017.
-We explore and analyze the data to discover important factors that govern the bookings by
+We explore and analyze the data to discover important factors that govern the bookings by:
 * Understanding the business task.
 * Import relevant libraries and define useful functions.
 * Reading data from files given.
