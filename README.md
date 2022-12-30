@@ -23,7 +23,9 @@ We explore and analyze the data to discover important factors that govern the bo
 
 ### To attract the customer and increase the number of booking in hotels.
 
+
 ## Variable Description
+
 The variables and the data it represents are listed below:                    
 
 hotel : Name of the hotel (Resort Hotel or City Hotel)
