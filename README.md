@@ -21,7 +21,7 @@ We explore and analyze the data to discover important factors that govern the bo
 
 ## Business objective
 
-#### To attract the customer and increase the number of booking in hotels.
+### To attract the customer and increase the number of booking in hotels.
 
 ## Variable Description
 The variables and the data it represents are listed below:                    
